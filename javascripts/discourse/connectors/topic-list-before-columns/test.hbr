@@ -1,3 +1,1 @@
-<div id="for-event-card">
-    this is for the event card
-</div>
+{{event-cards}}
